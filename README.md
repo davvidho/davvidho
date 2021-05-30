@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davvidho
 - 👀 I’m interested in Machine Learning!
-- 🌱 I’m currently learning how to use python to automate certain menial tasks and overall just how to make my life a lot
+- 🌱 I’m currently learning how to use python to automate certain menial tasks and overall just how to make my life a lot easier!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
